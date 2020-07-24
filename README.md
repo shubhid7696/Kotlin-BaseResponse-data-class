@@ -1,5 +1,5 @@
 # Kotlin-BaseResponse-data-class
-This is an example of creating API response with some Base response class for common parameters
+This is an example of creating API response with Base response class for common parameters
  
 When I started Android development in Kotlin back in time when as a fresher I didn't know many things. So this is the example for the fresher android developers to get an idea about making data classes less complex and make better data classes while working with kotlin data classes
  
