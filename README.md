@@ -1,7 +1,7 @@
 # Kotlin-BaseResponse-data-class
 This is an example of creating API response with Base response class for common parameters
  
-When I started Android development in Kotlin back in time when as a fresher I didn't know many things. So this is the example for the fresher android developers to get an idea about making less complex and reusable data classes while working with kotlin data classes.
+When I started Android development in Kotlin back in time, when as a fresher I didn't know many things. So this is the example for the fresher android developers to get an idea about making less complex and reusable data classes while working with kotlin data classes.
  
 **BaseResponse** file contains common variables which will be used in most of the API responses so if there is any variable that you want to change throughout the app then it's a time saver as only one file is required to be changed.
  
